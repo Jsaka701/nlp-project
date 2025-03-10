@@ -30,7 +30,7 @@ Record a short video of your project to display here on your README. You can do 
 - Upload the thumbnail image to your repo.
 - Use the following markdown code:
 
-[![Thumbnail for my projet](Thumbnail.png)]([https://youtu.be/rzclmB2mAmI)]
+[![Thumbnail for my projet](Thumbnail.png)]([https://youtu.be/rzclmB2mAmI)])
 
 ## Project Description
 
